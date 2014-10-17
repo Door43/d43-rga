@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rga:home|Door43 (rga)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rga|d43-rga repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rga/archive/master.zip|d43-rga.zip]]
+
+**Recent Changes**
+{{changes>ns = rga}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rga|Ethnologue data]]
+
